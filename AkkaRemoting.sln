@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR.Server", "AR.Server\AR.Server.csproj", "{2AF50F01-81CA-49AC-938B-AE914F9B33F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR.Common", "AR.Common\AR.Common.csproj", "{78790085-DDD2-4D9E-B85D-05D216EE51A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR.Client2", "AR.Client2\AR.Client2.csproj", "{223BD926-3E2E-434E-991A-08A02D5447C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF50F01-81CA-49AC-938B-AE914F9B33F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF50F01-81CA-49AC-938B-AE914F9B33F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF50F01-81CA-49AC-938B-AE914F9B33F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF50F01-81CA-49AC-938B-AE914F9B33F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78790085-DDD2-4D9E-B85D-05D216EE51A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78790085-DDD2-4D9E-B85D-05D216EE51A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78790085-DDD2-4D9E-B85D-05D216EE51A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78790085-DDD2-4D9E-B85D-05D216EE51A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223BD926-3E2E-434E-991A-08A02D5447C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223BD926-3E2E-434E-991A-08A02D5447C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223BD926-3E2E-434E-991A-08A02D5447C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223BD926-3E2E-434E-991A-08A02D5447C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
